@@ -6,3 +6,8 @@
 ## Machine Learning Infra
  - [Horovod: fast and easy distributed deep learning in TensorFlow](https://arxiv.org/abs/1802.05799) (todo)
 
+## Ads Logic
+ - [Budget pacing for targeted online advertisements at linkedin](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/linkedin-pacing.pdf)(done)
+
+## Ads ML
+ - [Real-Time Bidding by Reinforcement Learning in Display Advertising](https://arxiv.org/pdf/1701.02490.pdf)(todo)
